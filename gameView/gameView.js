@@ -21,7 +21,7 @@ function updateGameView() {
             <img
             style="margin-left: 25vw;"
             id="player-character"
-            src="/images/sprites/${model.app.currentAnimation.skin}-${model.app.currentAnimation.sprite}.png">
+            src="./images/sprites/${model.app.currentAnimation.skin}-${model.app.currentAnimation.sprite}.png">
             <img id="back">
         </div>
     </div>

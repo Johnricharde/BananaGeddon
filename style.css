@@ -1,11 +1,11 @@
 /* GENERAL */
 body {
-    background-image: url("/img/Logo.png");
+    background-image: url("./img/Logo.png");
     margin: 0;
 }
 
 #back {    
-    background: url(images/gameBackground.jpg);
+    background: url(./images/gameBackground.jpg);
     background-size: cover;
     height: 860px;
     width: 100%;

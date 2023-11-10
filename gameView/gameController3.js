@@ -14,7 +14,7 @@ function spawnObstacle() {
     var obstacleX = 100;
 
     var newObstacle = document.createElement("img");
-    newObstacle.src = "/images/monkey.png"
+    newObstacle.src = "./images/monkey.png"
     newObstacle.style.height = "10%";
     newObstacle.style.width = "5%";
     newObstacle.style.position = "absolute";

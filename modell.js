@@ -43,7 +43,7 @@ const model = {
     data: {
         back: [
             {
-                img: "/images/gameBackground.jpg"
+                img: "./images/gameBackground.jpg"
             },
         ],
         liveHighscore: 0,
@@ -87,20 +87,20 @@ const model = {
                 itemnum: 1,
                 name: 'ugly',
                 price: 100,
-                img: "/images/sprites/ugly-idle.png"
+                img: "./images/sprites/ugly-idle.png"
             },
 
             {
                 itemnum: 2,
                 name: 'peel',
                 price: 200,
-                img: "/images/sprites/peel-idle.png"
+                img: "./images/sprites/peel-idle.png"
             },
             {
                 itemnum: 3,
                 name: 'dino',
                 price: 300,
-                img: "/images/sprites/dino-idle.png",
+                img: "./images/sprites/dino-idle.png",
             }
 
         ],
